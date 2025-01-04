@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     year: "2024 - 2024",
     role: "Frontend Developer",
     company: "Fenix Apps.",
-    description: `Led to the frontend development of a demo for "Narices Frías," a pet cemetery company .`,
+    description: `I designed and implemented a responsive, user-focused interface for a demo project, collaborating with a cross-functional team to deliver scalable solutions within deadlines. By employing iterative development, I improved system performance and user experience. Additionally, I developed a front-end solution showcasing cloud basics, which enhanced feature deployment speed by 30% using HTML, CSS, and JavaScript over a 3-month project period.`,
     technologies: ["TypeScript", "React.js", "Next.js", "SASS"],
   }
 ];
