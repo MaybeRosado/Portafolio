@@ -23,10 +23,25 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "A responsive personal portfolio website designed to showcase my projects, technical skills, and provide an easy way to contact me. Developed with React and styled using Tailwind CSS, it features smooth animations implemented with Framer Motion for a modern and interactive user experience.",
     technologies: ["React", "JavaScript", "Tailwind", "Framer Motion"],
-  }
+  },
+  {
+    title: "NASA Picture of the Day",
+    image: project3,
+    description:
+      "A dynamic web application that integrates with NASA's public API to display the 'Picture of the Day' along with detailed information. Built with React, it emphasizes API handling and dynamic content rendering while ensuring a clean and user-friendly interface.",
+    technologies: ["React", "JavaScript", "CSS"],
+  },
+  {
+    title: "PWA To-Do List",
+    image: project3,
+    description:
+      "A Progressive Web Application (PWA) for managing tasks efficiently. Includes offline capabilities and user authentication using Firebase. The app was designed to provide a seamless and accessible experience on both desktop and mobile platforms.",
+    technologies: ["React", "JavaScript", "CSS", "Firebase"],
+  },
 ];
+
 
 export const CONTACT = {
   address: "Villa de Álvarez, Colima",

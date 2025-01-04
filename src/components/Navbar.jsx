@@ -14,7 +14,8 @@ const Navbar = () => {
     <div 
     className='m-8 flex items-center justify-center gap-4 text-2xl'>
         <a href="https://www.linkedin.com/in/emilio-rosado-araujo/" target='_blank'><FaLinkedin /></a>
-        <FaGithub />
+        <a href="https://github.com/MaybeRosado" target='_blank'> <FaGithub /></a>
+       
     </div>
   </nav>
   )

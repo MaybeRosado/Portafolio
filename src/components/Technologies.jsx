@@ -1,6 +1,6 @@
 import {RiJavascriptLine, RiReactjsLine} from 'react-icons/ri'
 import {FaHtml5, FaCss3Alt, FaNodeJs} from 'react-icons/fa'
-import {SiMysql, SiTypescript} from 'react-icons/si'
+import {SiMysql} from 'react-icons/si'
 import { motion } from 'framer-motion'
 
 const iconVariants = (duration) => ({
@@ -49,13 +49,6 @@ const Technologies = () => {
             animate='animate'
             className="rounded-2xl border-4 border-neutral-800 p-4">
                 <RiJavascriptLine className='text-7xl text-yellow-400'/>
-            </motion.div>
-            <motion.div 
-            variants={iconVariants(5)}
-            initial='initial'
-            animate='animate'
-            className="rounded-2xl border-4 border-neutral-800 p-4">
-                <SiTypescript className='text-7xl text-blue-500'/>
             </motion.div>
             <motion.div
             variants={iconVariants(4)}
