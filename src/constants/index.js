@@ -10,11 +10,25 @@ As someone who values both technical skill and creativity, I enjoy exploring inn
 
 export const EXPERIENCES = [
   {
-    year: "2024 - 2024",
-    role: "Frontend Developer",
+    year: "January 2025 - Present",
+    role: "Web Developer",
+    company: "Universidad de Colima.",
+    description: `Developing and maintaining web applications to support university projects.`,
+    technologies: ["TypeScript", "React", "Tailwind", "PHP"],
+  },
+  {
+    year: "January 2024 - July 2024",
+    role: "Frontend Developer Intern",
     company: "Fenix Apps.",
-    description: `I designed and implemented a responsive, user-focused interface for a demo project, collaborating with a cross-functional team to deliver scalable solutions within deadlines. By employing iterative development, I improved system performance and user experience. Additionally, I developed a front-end solution showcasing cloud basics, which enhanced feature deployment speed by 30% using HTML, CSS, and JavaScript over a 3-month project period.`,
-    technologies: ["TypeScript", "React.js", "Next.js", "SASS"],
+    description: `I designed and implemented a responsive, user-focused interface for a demo project, collaborating with a cross-functional team to deliver scalable solutions within deadlines. By employing iterative development, I improved system performance and user experience. Additionally, I developed a front-end solution showcasing cloud basics, which enhanced feature deployment speed by 30% using HTML, CSS, and JavaScript.`,
+    technologies: ["TypeScript", "React", "Next.js", "SASS"],
+  },
+  {
+    year: "August 2023 - December 2023",
+    role: "Frontend Developer Intern",
+    company: "Universidad de Colima.",
+    description: `Developed a web platform focused on mental health awareness, enhancing user engagement and accessibility.`,
+    technologies: ["JavaScript", "HTML", "CSS"]
   }
 ];
 
